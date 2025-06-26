@@ -1,0 +1,13 @@
+# Exclude private constants
+Constants/
+Private/
+secrets.lua
+*.secret
+*.key
+*.token
+
+# macOS system files
+.DS_Store
+
+# TextEdit backups
+*.txt
